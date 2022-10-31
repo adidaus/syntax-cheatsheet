@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "37b65ad2ef674645",
+    "id": "491158260976b675",
     "type": "split",
     "children": [
       {
-        "id": "fcf4c4923981fab5",
+        "id": "0874d2df46a6b435",
         "type": "tabs",
         "children": [
           {
-            "id": "0d62fb007c26185a",
+            "id": "db9c270d1adc7090",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Python vs JavaScript.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "30be2a7f24500394",
+    "id": "0e1b4d997c56bfa1",
     "type": "split",
     "children": [
       {
-        "id": "668e8ccf8bddd66d",
+        "id": "bed0122279c9b17b",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d4d72aa6294bed",
+            "id": "16da137bf2d270bf",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "2e3266251aaf2323",
+            "id": "e88cbff585577906",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "a7d0af18ab43d8e7",
+            "id": "dab78123885ded69",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "5f059ddbac425b0e",
+    "id": "9874f3663fac6391",
     "type": "split",
     "children": [
       {
-        "id": "aaf83c597ebe1a50",
+        "id": "5af2341354866b77",
         "type": "tabs",
         "children": [
           {
-            "id": "fbfc5c9fee060478",
+            "id": "5cf7cf1b189a1129",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "6bec41c4dfe3684c",
+            "id": "6f93bf3e67b7022a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "7b5600335e738588",
+            "id": "f93a7ace9c643f55",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "79a6c2254919a0cf",
+            "id": "e66b97d4ddcb6f63",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -136,8 +136,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0d62fb007c26185a",
-  "lastOpenFiles": [
-    "Python vs JavaScript.md"
-  ]
+  "active": "db9c270d1adc7090",
+  "lastOpenFiles": []
 }
