@@ -1,3 +1,6 @@
+# Literals
+input text here
+
 # Variables
 
 ## Javascript
