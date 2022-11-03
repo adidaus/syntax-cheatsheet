@@ -5,7 +5,10 @@
 1 | **
 2 | +, - (unary)
 3 | \*, /, //, %
-4 | +, -
+4 | +, - (binary)
+5 | <, <=, >, >=
+6 | ==, !=
+
 Both operators (`*` and `%`) have the same priority, so the result is detemined by the binding direction.
 
 ### Exponentiation
@@ -47,6 +50,19 @@ Both operators (`*` and `%`) have the same priority, so the result is detemine
 
 
 **Remember**: Data and operators when connected together form **expressions**. The simplest expression is a literal itself.
+
+## Logic Operators
+and, or, not
+
+## Bitwise Operators
+manipulate single bits of data
+
+-   `&` does a _bitwise and_, e.g., `x & y = 0`, which is `0000 0000` in binary,
+-   `|` does a _bitwise or_, e.g., `x | y = 31`, which is `0001 1111` in binary,
+-   `˜`  does a _bitwise not_, e.g., `˜ x = 240`*, which is `1111 0000` in binary,
+-   `^` does a _bitwise xor_, e.g., `x ^ y = 31`, which is `0001 1111` in binary,
+-   `>>` does a _bitwise right shift_, e.g., `y >> 1 = 8`, which is `0000 1000` in binary,
+-   `<<` does a _bitwise left shift_, e.g., `y << 3 =` , which is `1000 0000` in binary
 
 
 
